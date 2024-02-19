@@ -1,0 +1,35 @@
+body{
+    text-align: center;
+	border-radius: 10px;
+	height: 570px;
+	width: 300px;
+	margin: 0 auto;
+	background-color: rgb(33, 32, 32);
+	position: static;
+	color: white;
+}
+img{
+    border-radius: 50%;
+}
+
+
+p {
+    color: hsl(75, 94%, 57%);
+  }
+button {
+    border-radius: 5px;
+	color: white;
+	margin: 0 auto;
+	background-color: #413e3e;
+	width: 250px;
+	height: 30px;
+	align-items: center;
+}
+button:focus {
+    outline: blue auto 5px; 
+  background-color: hsl(75, 94%, 57%);
+}
+
+div {
+    display: block;
+}
